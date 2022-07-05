@@ -1,0 +1,19 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+/* .container{
+
+    height: 100%;
+    width: 100%;
+    background-color: green;
+    clip-path: polygon(0 0, 100% 1%, 100% 41%, 0 100%);
+    position: absolute;
+} */
+.container{
+
+    display: flex;
+    justify-content:space-evenly;
+}
